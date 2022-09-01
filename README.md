@@ -9,6 +9,6 @@ If you have AWS credentials loaded into your environment, you can also push to y
 
 ```bash
 sam deploy --guided
-``
+```
 
 This is an example project for a blog post on dave.dev and video on YouTube. This was generated also for the AWS Community Builders programme by David Gee (dave.dev / built.fm) in spare time.
